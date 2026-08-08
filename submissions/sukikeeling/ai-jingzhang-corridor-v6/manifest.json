@@ -89,7 +89,7 @@
       "path": "report/proposal.html",
       "role": "rendered_proposal_html",
       "required": true,
-      "sha256": "3571f2ca80f4d36a4a45fc61c56fe2a0dab014f05a607e62bdcfd8bdba34e10e"
+      "sha256": "37020c8e8936ac1ddf7553c7e76b70e40d8553eb0b1a73a00dd9125e138579c2"
     },
     {
       "path": "report/narrative.md",
